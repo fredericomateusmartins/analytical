@@ -1,5 +1,5 @@
 # Analytical <img src="Others/icon.ico" align="right" />
-Spytify Music Streaming Client
+Automated Statistics Reporting 
 
 ## Synopsis
 
