@@ -3,7 +3,7 @@ Automated Statistics Reporting
 
 ## Synopsis
 
-Analytical is a automated reporting program for writing custom statistics reports based on information from Google Analytics.
+Analytical is a automated reporting program for writing custom statistics reports based on information fetched from Google Analytics.
 
 ## Installation
 
