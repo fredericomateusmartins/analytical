@@ -1,5 +1,5 @@
 # Analytical <img src="Others/icon.ico" align="right" />
-Automated Statistics Reporting 
+Google Analytic Automated Statistics Reporting 
 
 ## Synopsis
 
@@ -27,4 +27,4 @@ Please ensure your pull request adheres to the following guidelines:
 
 ## License
 
-The content of this project itself and the source code is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
+The content of this project and the source code is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html), the full license text can be seen [here](LICENSE).
