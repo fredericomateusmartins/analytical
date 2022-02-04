@@ -22,7 +22,6 @@ def SetupBuild():
         version = '1.0',
         description = 'Google Analytics statistics report generator',
         author = 'Frederico Martins',
-        author_email = 'fredericomartins@outlook.com',
         options = {'build_exe': build_options},
         executables = [Executable(apppath + '.py', base = base, icon = filpath + '/icon.ico')])
 
